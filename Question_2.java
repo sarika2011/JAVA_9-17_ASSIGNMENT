@@ -1,7 +1,7 @@
 package Question2;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
+/*Perform takeWhile and dropWhile operations on stream*/
 public class Question_2 {
 
 
