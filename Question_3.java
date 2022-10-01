@@ -1,7 +1,7 @@
 package Question3;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
+/*Use rangeClosed to create a  Stream*/
 public class Question_3 {
 
     //Use rangeClosed to create a  Stream
