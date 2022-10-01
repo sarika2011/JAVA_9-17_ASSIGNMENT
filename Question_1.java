@@ -1,5 +1,5 @@
 package Java917Additions;
-?*Demonstrate the use of private methods in interfaces*/
+/*Demonstrate the use of private methods in interfaces*/
 public class Question_1 {
 
     interface StringManipulation{
