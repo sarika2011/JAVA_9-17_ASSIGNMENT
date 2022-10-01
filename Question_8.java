@@ -1,5 +1,5 @@
 package Question8;
-
+/*Demonstrate the use AutoCloseable*/
 class Resource implements AutoCloseable{
     public Resource() {
         System.out.println("Resource created");
